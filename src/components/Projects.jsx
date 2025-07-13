@@ -2,7 +2,7 @@ import React from "react";
 import netflixgpt from "../assets/netflix-gpt.png";
 import thinkpad from "../assets/thinkpad.png";
 import foodrecipe from "../assets/foodrecipe.png";
-import devtinder from "../assets/devTinder.png";
+import devtinder from "../assets/devtinder.png";
 import ProjectCard from "./ProjectCard";
 
 const Projects = () => (
